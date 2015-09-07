@@ -24,11 +24,11 @@
     opacity: 0;
     z-index: 0;
 	-webkit-backface-visibility: hidden;
-    -webkit-animation: imageAnimation 110s linear infinite 0s;
-    -moz-animation: imageAnimation 110s linear infinite 0s;
-    -o-animation: imageAnimation 110s linear infinite 0s;
-    -ms-animation: imageAnimation 110s linear infinite 0s;
-    animation: imageAnimation 110s linear infinite 0s;
+    -webkit-animation: imageAnimation 120s linear infinite 0s;
+    -moz-animation: imageAnimation 120s linear infinite 0s;
+    -o-animation: imageAnimation 120s linear infinite 0s;
+    -ms-animation: imageAnimation 120s linear infinite 0s;
+    animation: imageAnimation 120s linear infinite 0s;
 }
 .fontGo {
     z-index: 1000;
