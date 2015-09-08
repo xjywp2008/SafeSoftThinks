@@ -167,16 +167,16 @@
         opacity: 0;
         -webkit-animation-timing-function: ease-in;
     }
-    8% {
+    3% {
         opacity: 1;
         -webkit-transform: scale(1.05);
         -webkit-animation-timing-function: ease-out;
     }
-    17% {
+    7.14% {
         opacity: 1;
         -webkit-transform: scale(1.1) rotate(3deg);
     }
-    25% {
+    10% {
         opacity: 0;
         -webkit-transform: scale(1.1) rotate(3deg);
     }
@@ -187,16 +187,16 @@
         opacity: 0;
         -moz-animation-timing-function: ease-in;
     }
-    8% {
+    3% {
         opacity: 1;
         -moz-transform: scale(1.05);
         -moz-animation-timing-function: ease-out;
     }
-    17% {
+    7.14% {
         opacity: 1;
         -moz-transform: scale(1.1) rotate(3deg);
     }
-    25% {
+    10% {
         opacity: 0;
         -moz-transform: scale(1.1) rotate(3deg);
     }
@@ -207,16 +207,16 @@
         opacity: 0;
         -o-animation-timing-function: ease-in;
     }
-    8% {
+    3% {
         opacity: 1;
         -o-transform: scale(1.05);
         -o-animation-timing-function: ease-out;
     }
-    17% {
+    7.14% {
         opacity: 1;
         -o-transform: scale(1.1) rotate(3deg);
     }
-    25% {
+    10% {
         opacity: 0;
         -o-transform: scale(1.1) rotate(3deg);
     }
@@ -227,16 +227,16 @@
         opacity: 0;
         -ms-animation-timing-function: ease-in;
     }
-    8% {
+    3% {
         opacity: 1;
         -ms-transform: scale(1.05);
         -ms-animation-timing-function: ease-out;
     }
-    17% {
+    7.14% {
         opacity: 1;
         -ms-transform: scale(1.1) rotate(3deg);
     }
-    25% {
+    10% {
         opacity: 0;
         -ms-transform: scale(1.1) rotate(3deg);
     }
@@ -247,16 +247,16 @@
         opacity: 0;
         animation-timing-function: ease-in;
     }
-    8% {
+    3% {
         opacity: 1;
         transform: scale(1.05);
         animation-timing-function: ease-out;
     }
-    17% {
+    7.14% {
         opacity: 1;
         transform: scale(1.1) rotate(3deg);
     }
-    25% {
+    10% {
         opacity: 0;
         transform: scale(1.1) rotate(3deg);
     }
