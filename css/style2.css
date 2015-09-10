@@ -38,11 +38,11 @@
     width: 39%;
     text-align: right;
     opacity: 0;
-    -webkit-animation: titleAnimation 180s linear infinite 0s;
-    -moz-animation: titleAnimation 180s linear infinite 0s;
-    -o-animation: titleAnimation 180s linear infinite 0s;
-    -ms-animation: titleAnimation 180s linear infinite 0s;
-	animation: titleAnimation 180s linear infinite 0s;
+    -webkit-animation: titleAnimation 380s linear infinite 0s;
+    -moz-animation: titleAnimation 380s linear infinite 0s;
+    -o-animation: titleAnimation 380s linear infinite 0s;
+    -ms-animation: titleAnimation 380s linear infinite 0s;
+	animation: titleAnimation 380s linear infinite 0s;
 }
 
 .cb-slideshow li:nth-child(1) span {
