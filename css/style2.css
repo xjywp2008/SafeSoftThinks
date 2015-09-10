@@ -24,11 +24,11 @@
     opacity: 0;
     z-index: 0;
 	-webkit-backface-visibility: hidden;
-    -webkit-animation: imageAnimation 140s linear infinite 0s;
-    -moz-animation: imageAnimation 140s linear infinite 0s;
-    -o-animation: imageAnimation 140s linear infinite 0s;
-    -ms-animation: imageAnimation 140s linear infinite 0s;
-    animation: imageAnimation 140s linear infinite 0s;
+    -webkit-animation: imageAnimation 200s linear infinite 0s;
+    -moz-animation: imageAnimation 200s linear infinite 0s;
+    -o-animation: imageAnimation 200s linear infinite 0s;
+    -ms-animation: imageAnimation 200s linear infinite 0s;
+    animation: imageAnimation 200s linear infinite 0s;
 }
 .fontGo {
     z-index: 1000;
@@ -218,11 +218,11 @@
         -webkit-transform: scale(1.05);
         -webkit-animation-timing-function: ease-out;
     }
-    7.14% {
+    5% {
         opacity: 1;
         -webkit-transform: scale(1.1) rotate(3deg);
     }
-    10% {
+    7% {
         opacity: 0;
         -webkit-transform: scale(1.1) rotate(3deg);
     }
@@ -238,11 +238,11 @@
         -moz-transform: scale(1.05);
         -moz-animation-timing-function: ease-out;
     }
-    7.14% {
+    5% {
         opacity: 1;
         -moz-transform: scale(1.1) rotate(3deg);
     }
-    10% {
+    7% {
         opacity: 0;
         -moz-transform: scale(1.1) rotate(3deg);
     }
@@ -258,11 +258,11 @@
         -o-transform: scale(1.05);
         -o-animation-timing-function: ease-out;
     }
-    7.14% {
+    5% {
         opacity: 1;
         -o-transform: scale(1.1) rotate(3deg);
     }
-    10% {
+    7% {
         opacity: 0;
         -o-transform: scale(1.1) rotate(3deg);
     }
@@ -278,11 +278,11 @@
         -ms-transform: scale(1.05);
         -ms-animation-timing-function: ease-out;
     }
-    7.14% {
+    5% {
         opacity: 1;
         -ms-transform: scale(1.1) rotate(3deg);
     }
-    10% {
+    7% {
         opacity: 0;
         -ms-transform: scale(1.1) rotate(3deg);
     }
@@ -298,11 +298,11 @@
         transform: scale(1.05);
         animation-timing-function: ease-out;
     }
-    7.14% {
+    5% {
         opacity: 1;
         transform: scale(1.1) rotate(3deg);
     }
-    10% {
+    7% {
         opacity: 0;
         transform: scale(1.1) rotate(3deg);
     }
