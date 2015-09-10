@@ -222,7 +222,7 @@
         opacity: 1;
         -webkit-transform: scale(1.1) rotate(3deg);
     }
-    7% {
+    8% {
         opacity: 0;
         -webkit-transform: scale(1.1) rotate(3deg);
     }
@@ -242,7 +242,7 @@
         opacity: 1;
         -moz-transform: scale(1.1) rotate(3deg);
     }
-    7% {
+    8% {
         opacity: 0;
         -moz-transform: scale(1.1) rotate(3deg);
     }
@@ -262,7 +262,7 @@
         opacity: 1;
         -o-transform: scale(1.1) rotate(3deg);
     }
-    7% {
+    8% {
         opacity: 0;
         -o-transform: scale(1.1) rotate(3deg);
     }
@@ -282,7 +282,7 @@
         opacity: 1;
         -ms-transform: scale(1.1) rotate(3deg);
     }
-    7% {
+    8% {
         opacity: 0;
         -ms-transform: scale(1.1) rotate(3deg);
     }
@@ -302,7 +302,7 @@
         opacity: 1;
         transform: scale(1.1) rotate(3deg);
     }
-    7% {
+    8% {
         opacity: 0;
         transform: scale(1.1) rotate(3deg);
     }
@@ -313,7 +313,7 @@
         opacity: 0;
         -webkit-transform: translateX(0px);
     }
-    8% {
+    3% {
         opacity: 1;
         -webkit-transform: translateX(0px);
     }
@@ -333,7 +333,7 @@
         opacity: 0;
         -moz-transform: translateX(0px);
     }
-    8% {
+    3% {
         opacity: 1;
         -moz-transform: translateX(0px);
     }
@@ -353,7 +353,7 @@
         opacity: 0;
         -o-transform: translateX(0px);
     }
-    8% {
+    3% {
         opacity: 1;
         -o-transform: translateX(0px);
     }
@@ -373,7 +373,7 @@
         opacity: 0;
         -ms-transform: translateX(0px);
     }
-    8% {
+    3% {
         opacity: 1;
         -ms-transform: translateX(0px);
     }
@@ -395,7 +395,7 @@
 	    opacity: 0;
 	    transform: translateX(0px);
 	}
-	8% {
+	3% {
 	    opacity: 1;
 	    transform: translateX(0px);
 	}
@@ -417,7 +417,7 @@
     padding: 0 20px;
     line-height: 35px;
     color: #0a70d3;
-    background-color:#000; opacity:0.7;filter:alpha(opacity=50);
+    background-color:#000; opacity:0.7;filter:alpha(opacity=70);
 }
 
 h1, h2, h3, h4, h5, h6 {
